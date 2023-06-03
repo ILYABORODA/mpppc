@@ -1,0 +1,473 @@
+# Translation of Plugins - Events Widgets For Elementor And The Events Calendar - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Events Widgets For Elementor And The Events Calendar - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-04-27 06:00:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Events Widgets For Elementor And The Events Calendar - Stable (latest release)\n"
+
+#: events-widgets-for-elementor-and-the-events-calendar.php:86
+msgid "Get Pro"
+msgstr "Получить Pro"
+
+#: widgets/ectbe-widget.php:679
+msgid "Get Pro ⇗"
+msgstr "Получить Pro ⇗"
+
+#. Author URI of the plugin
+msgid "https://coolplugins.net/?utm_source=ectbe_plugin&utm_medium=readme&utm_campaign=coolplugins&utm_content=author_uri"
+msgstr "https://coolplugins.net/?utm_source=ectbe_plugin&utm_medium=readme&utm_campaign=coolplugins&utm_content=author_uri"
+
+#. Plugin URI of the plugin
+msgid "https://eventscalendaraddons.com/plugin/events-widgets-pro/?utm_source=ectbe_plugin&utm_medium=inside&utm_campaign=get_pro&utm_content=plugin_uri"
+msgstr "https://eventscalendaraddons.com/plugin/events-widgets-pro/?utm_source=ectbe_plugin&utm_medium=inside&utm_campaign=get_pro&utm_content=plugin_uri"
+
+#: feedback/admin-feedback-form.php:55
+msgid "I found a better plugin."
+msgstr "Я нашёл плагин лучше."
+
+#: feedback/admin-feedback-form.php:67
+msgid "Other reason."
+msgstr "Другая причина."
+
+#: widgets/ectbe-widget.php:633
+msgid "Share Your Feedback"
+msgstr "Поделитесь своим отзывом"
+
+#: feedback/admin-feedback-form.php:51
+msgid "The plugin didn't work as expected."
+msgstr "Плагин не работал как ожидалось."
+
+#: feedback/admin-feedback-form.php:59
+msgid "The plugin is not working."
+msgstr "Плагин не работает."
+
+#: events-widgets-for-elementor-and-the-events-calendar.php:75
+msgid "Video Tutorials"
+msgstr "Видео уроки"
+
+#: events-widgets-for-elementor-and-the-events-calendar.php:163
+msgid " must be installed and activated for using \"<strong>Events Widgets For Elementor And The Events Calendar</strong>\" "
+msgstr " необходимо установить и активировать для использования «<strong>Events Widgets For Elementor And The Events Calendar</strong>» "
+
+#: widgets/ectbe-widget.php:623
+msgid "For Advanced Styles - Get Pro ⇗"
+msgstr "Для продвинутых стилей — Get Pro ⇗"
+
+#: feedback/admin-feedback-form.php:108
+msgid "I agree to share my feedback with Cool Plugins, including site URL and admin email, to enable them to address my inquiry."
+msgstr "Я согласен поделиться своими отзывами с Cool Plugins, включая URL-адрес сайта и адрес электронной почты администратора, чтобы они могли ответить на мой запрос."
+
+#: events-widgets-for-elementor-and-the-events-calendar.php:150
+msgid "In order to use Events Widgets For Elementor And The Events Calendar plugin, Please first install the latest version of"
+msgstr "Чтобы использовать плагин Events Widgets For Elementor And The Events Calendar, сначала установите последнюю версию"
+
+#: widgets/ectbe-widget.php:654
+msgid "View Demo / Get Pro ⇗"
+msgstr "Посмотреть демо / Получить Pro ⇗"
+
+#. Description of the plugin
+msgid "<a href=\"http://wordpress.org/plugins/the-events-calendar/\">📅 The Events Calendar Addon</a> - Events Widget to show The Events Calendar plugin events list easily inside Elementor page builder pages."
+msgstr "<a href=\"http://wordpress.org/plugins/the-events-calendar/\">📅 Events Calendar Addon</a> — виджет событий, позволяющий легко отображать список событий плагина The Events Calendar на страницах конструктора страниц Elementor."
+
+#: widgets/ectbe-widget.php:166
+msgid ""
+"<a class=\"like_it_btn button button-primary\" target=\"_blank\"\n"
+"\t\t\t\thref=\"https://eventscalendaraddons.com/plugin/events-widgets-pro/?utm_source=ectbe_plugin&utm_medium=inside&utm_campaign=get_pro&utm_content=layout_settings\">\n"
+"\t\t\t\tGet Pro ⇗</a> for more advance layouts "
+msgstr ""
+"<a class=\"like_it_btn button-primary\" target=\"_blank\"\n"
+"href=\"https://eventscalendaraddons.com/plugin/events-widgets-pro/?utm_source=ectbe_plugin&utm_medium=inside&utm_campaign=get_pro&utm_content=layout_settings\">\n"
+"Получите Pro ⇗</a> для более продвинутых макетов "
+
+#: widgets/ectbe-widget.php:80
+msgid "Events Widgets Settings"
+msgstr "Настройки виджетов мероприятий"
+
+#: events-widgets-for-elementor-and-the-events-calendar.php:149
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: widgets/ectbe-widget.php:252
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: widgets/ectbe-widget.php:164
+msgid "Calendar"
+msgstr "Календарь"
+
+#: widgets/ectbe-widget.php:398 widgets/ectbe-widget.php:451
+#: widgets/ectbe-widget.php:473 widgets/ectbe-widget.php:503
+#: widgets/ectbe-widget.php:533 widgets/ectbe-widget.php:569
+#: widgets/ectbe-widget.php:602
+msgid "Color"
+msgstr "Цвет"
+
+#: widgets/ectbe-widget.php:275
+msgid "Date Format"
+msgstr "Формат даты"
+
+#: widgets/ectbe-widget.php:206
+msgid "Day"
+msgstr "День"
+
+#: widgets/ectbe-widget.php:782
+msgid "Find out more"
+msgstr "Узнать больше"
+
+#: widgets/ectbe-widget.php:227
+msgid "Friday"
+msgstr "Пятница"
+
+#: widgets/ectbe-widget.php:157
+msgid "Layout"
+msgstr "Макет"
+
+#: widgets/ectbe-widget.php:162 widgets/ectbe-widget.php:208
+msgid "List"
+msgstr "Список"
+
+#: widgets/ectbe-widget.php:223
+msgid "Monday"
+msgstr "Понедельник"
+
+#: widgets/ectbe-widget.php:205
+msgid "Month"
+msgstr "Месяц"
+
+#: includes/functions.php:92
+msgid "No Title"
+msgstr "Без заголовка"
+
+#: widgets/ectbe-widget.php:228
+msgid "Saturday"
+msgstr "Суббота"
+
+#: widgets/ectbe-widget.php:222
+msgid "Sunday"
+msgstr "Воскресенье"
+
+#: widgets/ectbe-widget.php:226
+msgid "Thursday"
+msgstr "Четверг"
+
+#: widgets/ectbe-widget.php:224
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: widgets/ectbe-widget.php:484 widgets/ectbe-widget.php:514
+#: widgets/ectbe-widget.php:547 widgets/ectbe-widget.php:583
+#: widgets/ectbe-widget.php:613
+msgid "Typography"
+msgstr "Типографика"
+
+#: widgets/ectbe-widget.php:225
+msgid "Wednesday"
+msgstr "Среда"
+
+#: widgets/ectbe-widget.php:207
+msgid "Week"
+msgstr "Неделя"
+
+#: widgets/ectbe-widget.php:327 widgets/ectbe-widget.php:344
+#: widgets/ectbe-widget.php:362
+msgid "Yes"
+msgstr "Да"
+
+#: widgets/ectbe-widget.php:311
+msgid "ASC"
+msgstr "По возрастанию"
+
+#: includes/functions.php:258 includes/functions.php:260
+msgid "All day"
+msgstr "Весь день"
+
+#: widgets/ectbe-widget.php:124
+msgid "All Events"
+msgstr "Все мероприятия"
+
+#: widgets/ectbe-widget.php:312
+msgid "DESC"
+msgstr "По убыванию"
+
+#: widgets/ectbe-widget.php:239
+msgid "Hide Read More Link"
+msgstr "Спрятать ссылку Читать далее"
+
+#: widgets/ectbe-widget.php:264
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: widgets/ectbe-widget.php:594 widgets/layouts/ectbe-calendar.php:37
+msgid "Read More"
+msgstr "Читать далее"
+
+#: widgets/ectbe-widget.php:219
+msgid "First Day of Week"
+msgstr "Первый день недели"
+
+#: widgets/ectbe-widget.php:133
+msgid "Start Date"
+msgstr "Дата начала"
+
+#: widgets/ectbe-widget.php:145
+msgid "End Date"
+msgstr "Дата окончания"
+
+#: widgets/ectbe-widget.php:103
+msgid "Event Category"
+msgstr "Рубрика мероприятия"
+
+#: widgets/ectbe-widget.php:465
+msgid "Event Date"
+msgstr "Дата мероприятия"
+
+#: widgets/ectbe-widget.php:522
+msgid "Event Description"
+msgstr "Описание мероприятия"
+
+#: widgets/ectbe-widget.php:429
+msgid "Font Color"
+msgstr "Цвет шрифта"
+
+#. Plugin Name of the plugin
+msgid "Events Widgets For Elementor And The Events Calendar"
+msgstr "Events Widgets For Elementor And The Events Calendar"
+
+#: widgets/ectbe-widget.php:326 widgets/ectbe-widget.php:345
+#: widgets/ectbe-widget.php:363
+msgid "NO"
+msgstr "НЕТ"
+
+#: widgets/ectbe-widget.php:666
+msgid "View Demo"
+msgstr "Посмотреть демо"
+
+#: widgets/ectbe-widget.php:378
+msgid "Color & Typography Settings"
+msgstr "Настройки цвета и типографики"
+
+#. Author of the plugin
+msgid "Cool Plugins"
+msgstr "Cool Plugins"
+
+#: widgets/ectbe-widget.php:202
+msgid "Default View"
+msgstr "Вид по умолчанию"
+
+#: widgets/ectbe-widget.php:439
+msgid "Event Background "
+msgstr "Фон мероприятия "
+
+#: widgets/ectbe-widget.php:495
+msgid "Event Title "
+msgstr "Заголовок мероприятия "
+
+#: widgets/ectbe-widget.php:558
+msgid "Event Venue"
+msgstr "Место проведения мероприятия"
+
+#: feedback/admin-feedback-form.php:63 feedback/admin-feedback-form.php:144
+msgid "It's a temporary deactivation."
+msgstr "Это временная деактивация."
+
+#: includes/class-admin-notice.php:237
+msgid "I already rated it"
+msgstr "Я уже оценил его"
+
+#: feedback/admin-feedback-form.php:136
+msgid "I found a better plugin"
+msgstr "Я нашел плагин лучше"
+
+#: includes/class-admin-notice.php:238
+msgid "Not Interested"
+msgstr "Не интересует"
+
+#: widgets/ectbe-widget.php:192
+msgid "Number of Events"
+msgstr "Кол-во мероприятий"
+
+#: feedback/admin-feedback-form.php:148
+msgid "Other"
+msgstr "Другие"
+
+#: widgets/ectbe-widget.php:92
+msgid "Past Events"
+msgstr "Прошедшие мероприятия"
+
+#: feedback/admin-feedback-form.php:68 feedback/admin-feedback-form.php:149
+msgid "Please share the reason."
+msgstr "Пожалуйста, поделитесь причиной."
+
+#: feedback/admin-feedback-form.php:56 feedback/admin-feedback-form.php:137
+msgid "Please share which plugin."
+msgstr "Поделитесь, пожалуйста, какой плагин."
+
+#: feedback/admin-feedback-form.php:78
+msgid "Quick Feedback"
+msgstr "Быстрая обратная связь"
+
+#: widgets/ectbe-widget.php:174
+msgid "Select Style"
+msgstr "Выбрать стиль"
+
+#: widgets/ectbe-widget.php:419
+msgid "Skin Color"
+msgstr "Цвет скина"
+
+#: widgets/ectbe-widget.php:177
+msgid "Style 1"
+msgstr "Стиль 1"
+
+#: widgets/ectbe-widget.php:178
+msgid "Style 2"
+msgstr "Стиль 2"
+
+#: feedback/admin-feedback-form.php:132
+msgid "The plugin didn't work as expected"
+msgstr "Плагин не работает, как ожидалось"
+
+#: feedback/admin-feedback-form.php:140
+msgid "The plugin is not working"
+msgstr "Плагин не работает"
+
+#: widgets/ectbe-widget.php:91
+msgid "Upcoming Events"
+msgstr "Предстоящие мероприятия"
+
+#: widgets/ectbe-widget.php:93
+msgid "All (Upcoming + Past)"
+msgstr "Все (Предстоящие + Прошедшие)"
+
+#: widgets/ectbe-widget.php:255
+msgid "Background Color of Multidays Event"
+msgstr "Цвет фона многодневного мероприятия"
+
+#: widgets/ectbe-widget.php:279
+msgid "Default (01 January 2019)"
+msgstr "По умолчанию (01 января 2019)"
+
+#: events-widgets-for-elementor-and-the-events-calendar.php:163
+msgid "Elementor Page Builder"
+msgstr "Конструктор страниц Elementor"
+
+#: widgets/ectbe-widget.php:151
+msgid "End Date of Date Range"
+msgstr "Конечная дата диапазона дат"
+
+#: includes/class-ectbe.php:13
+msgid "Events Calendar Addon For Elementor"
+msgstr "Дополнение календаря мероприятий для Elementor"
+
+#: widgets/ectbe-widget.php:125
+msgid "Events in between Date Range"
+msgstr "Мероприятия в промежутке между диапазонами дат"
+
+#: widgets/ectbe-widget.php:307
+msgid "Events Order"
+msgstr "Упорядочить мероприятия"
+
+#: widgets/ectbe-widget.php:119
+msgid "Events Time"
+msgstr "Время мероприятия"
+
+#: widgets/ectbe-widget.php:68
+msgid "Events Widgets"
+msgstr "Виджеты мероприятий"
+
+#: widgets/ectbe-widget.php:411
+msgid "Featured Event"
+msgstr "Избранные мероприятия"
+
+#: widgets/ectbe-widget.php:287
+msgid "Full (01 January 2019 8:00am-5:00pm)"
+msgstr "Полный (01 января 2019 г., 8:00–17:00)"
+
+#: widgets/ectbe-widget.php:243
+msgid "Hide Read More link in event popup"
+msgstr "Скрыть ссылку Читать далее во всплывающем окне мероприятия"
+
+#: widgets/ectbe-widget.php:322
+msgid "Hide Venue"
+msgstr "Скрыть место проведения"
+
+#: feedback/admin-feedback-form.php:87
+msgid "If you have a moment, please share the reason for deactivating this plugin."
+msgstr "Если у вас есть минутка, поделитесь, пожалуйста, причиной деактивации этого плагина."
+
+#: widgets/ectbe-widget.php:388
+msgid "Main Skin"
+msgstr "Основной скин"
+
+#: widgets/ectbe-widget.php:196
+msgid "Maximum number of events to display"
+msgstr "Макс. кол-во отображаемых мероприятий"
+
+#: widgets/ectbe-widget.php:163
+msgid "Minimal List"
+msgstr "Минимальный список"
+
+#: widgets/ectbe-widget.php:139
+msgid "Start date of date range"
+msgstr "Дата начала диапазона дат"
+
+#: widgets/ectbe-widget.php:796
+msgid "There is no Event"
+msgstr "Мероприятие отсутствует"
+
+#: widgets/ectbe-widget.php:87
+msgid "Type of Events"
+msgstr "Тип мероприятия"
+
+#: events-widgets-for-elementor-and-the-events-calendar.php:146
+msgid "The Events Calendar"
+msgstr "The Events Calendar"
+
+#: widgets/ectbe-widget.php:290
+msgid "d.F (01. January)"
+msgstr "d.F (01 января)"
+
+#: widgets/ectbe-widget.php:289
+msgid "d.FY (01. January 2019)"
+msgstr "d.FY (1 января 2019)"
+
+#: widgets/ectbe-widget.php:293
+msgid "d.Ml (01. Jan Monday)"
+msgstr "d.Ml (01. Январь Понедельник)"
+
+#: widgets/ectbe-widget.php:284
+msgid "dF (01 January)"
+msgstr "dF (01 января)"
+
+#: widgets/ectbe-widget.php:294
+msgid "dFT (01 January 8:00am-5:00pm)"
+msgstr "dFT (01 January 8:00am-5:00pm)"
+
+#: widgets/ectbe-widget.php:340
+msgid "Display Description"
+msgstr "Отображать описание"
+
+#: widgets/ectbe-widget.php:358
+msgid "Display Categoery"
+msgstr "Отображать рубрику"
+
+#: widgets/ectbe-widget.php:282
+msgid "dM (01 Jan))"
+msgstr "dM (01 янв))"
+
+#: widgets/ectbe-widget.php:283
+msgid "dMl (01 Jan Monday)"
+msgstr "dMl (01 января, понедельник)"
+
+#: widgets/ectbe-widget.php:281
+msgid "Fd,Y (January 01, 2019)"
+msgstr "Fd,Y (January 01, 2019)"
+
+#: widgets/ectbe-widget.php:288
+msgid "jMl"
+msgstr "jMl"
